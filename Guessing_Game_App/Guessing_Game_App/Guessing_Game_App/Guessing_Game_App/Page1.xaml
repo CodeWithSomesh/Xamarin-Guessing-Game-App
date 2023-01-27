@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Guessing_Game_App.Page1"
+             BackgroundColor="Black">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="GuessTheNumberLogo.png"  WidthRequest="380" HeightRequest="380"></Image>
+            <Label Text="Guess a number between 0 to 10:"
+                TextColor="HotPink"
+                FontSize="Large"/>
+            <Entry x:Name="number" Placeholder="Enter Number" PlaceholderColor="HotPink" TextColor="Aqua"></Entry>
+            <Label Text="(You Only Have 3 Total Attempts)"
+                TextColor="HotPink"
+                FontSize="Large"
+                HorizontalOptions="Center"/>
+            <Button 
+                VerticalOptions="Center" 
+                Text="Guess"
+                TextColor="HotPink"
+                BackgroundColor="Black"
+                BorderColor="HotPink"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                Clicked="Button_Clicked"></Button>
+            <Button 
+                VerticalOptions="Center" 
+                Text="Play Again"
+                TextColor="HotPink"
+                BackgroundColor="Black"
+                BorderColor="HotPink"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                Clicked="Button_Clicked_1"></Button>
+            <Button 
+                VerticalOptions="Center" 
+                Text="Return To Home Page"
+                TextColor="HotPink"
+                BackgroundColor="Black"
+                BorderColor="HotPink"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                Clicked="Button_Clicked_2"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

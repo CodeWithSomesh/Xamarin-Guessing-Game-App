@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Guessing_Game_App.MainPage"
+             BackgroundColor="Black">
+
+    <StackLayout Padding="40" HorizontalOptions="FillAndExpand">
+        <Image Source="The_Guessing_Game.png" WidthRequest="180" HeightRequest="180"></Image>
+        <Image Source="QuestionMark_Logo.png" VerticalOptions="FillAndExpand" WidthRequest="180" HeightRequest="180"></Image>
+        <Label Text="Player Name: " TextColor="HotPink" FontSize="Large"/>
+        <Entry x:Name="playerName" Placeholder="Enter Player Name" PlaceholderColor="HotPink" TextColor="Aqua" ></Entry>
+        <Button 
+                VerticalOptions="Center"
+                Text="Start The Game"
+                TextColor="HotPink"
+                BackgroundColor="Black"
+                BorderColor="HotPink"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                Clicked="Button_Clicked"
+                    ></Button>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,17 @@
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\bin\Debug\netstandard2.0\Guessing_Game_App.deps.json
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\bin\Debug\netstandard2.0\Guessing_Game_App.dll
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\bin\Debug\netstandard2.0\Guessing_Game_App.pdb
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\Guessing_Game_App.csproj.AssemblyReference.cache
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\Guessing_Game_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\Guessing_Game_App.AssemblyInfoInputs.cache
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\Guessing_Game_App.AssemblyInfo.cs
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\Guessing_Game_App.csproj.CoreCompileInputs.cache
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\Guessing_Game_App.dll
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\refint\Guessing_Game_App.dll
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\Guessing_Game_App.pdb
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\ref\Guessing_Game_App.dll
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Somesh\source\repos\Guessing_Game_App\Guessing_Game_App\Guessing_Game_App\obj\Debug\netstandard2.0\Page2.xaml.g.cs
