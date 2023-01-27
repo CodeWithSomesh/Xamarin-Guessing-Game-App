@@ -1,5 +1,5 @@
 # Xamarin-Guessing-Game-App
-##Xamarin Guessing Game App
+Xamarin Guessing Game App
 ----------------------------------------------------
 
 📄 My PDF Document in the repository has all the details about this project. 
@@ -15,6 +15,7 @@
 📱 Screen 2 
 <br />
 (Users are able to guess only upto 3 times, if they succeeded then they will be redirected to the next screen, if not they could choose to play again or return to the previous screen) 
+<br />
 ![photo_6242036539085403160_y](https://user-images.githubusercontent.com/123357802/215080103-89c31f69-ea19-4286-8dbe-fdae219fb998.jpg)
 
 
