@@ -26,3 +26,5 @@ Xamarin Guessing Game App
 (This screen is only displayed when a user has succesfully guessed the correct number within 3 attempts) 
 <br />
 ![photo_6242036539085403161_y](https://user-images.githubusercontent.com/123357802/215079662-20bced07-3b1e-4f93-a442-9968ee2c8207.jpg)
+
+</br>
