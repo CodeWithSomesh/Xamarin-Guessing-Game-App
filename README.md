@@ -3,6 +3,7 @@ Xamarin Guessing Game App
 ----------------------------------------------------
 
 📄 My PDF Document in the repository has all the details about this project. 
+</br>
 ⭐ UI Final Design:
 
 📱 Screen 1 
